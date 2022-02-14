@@ -1,0 +1,5 @@
+C:\Users\Windows10\Source\Repos\JsonModelOkuma1\JsonModelOkuma1\obj\Debug\JsonModelOkuma1.csprojAssemblyReference.cache
+C:\Users\Windows10\Source\Repos\JsonModelOkuma1\JsonModelOkuma1\obj\Debug\JsonModelOkuma1.Form1.resources
+C:\Users\Windows10\Source\Repos\JsonModelOkuma1\JsonModelOkuma1\obj\Debug\JsonModelOkuma1.Properties.Resources.resources
+C:\Users\Windows10\Source\Repos\JsonModelOkuma1\JsonModelOkuma1\obj\Debug\JsonModelOkuma1.csproj.GenerateResource.cache
+C:\Users\Windows10\Source\Repos\JsonModelOkuma1\JsonModelOkuma1\obj\Debug\JsonModelOkuma1.csproj.CoreCompileInputs.cache
